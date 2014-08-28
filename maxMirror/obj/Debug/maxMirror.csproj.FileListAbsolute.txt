@@ -1,0 +1,6 @@
+c:\work\visual studio 2013\Projects\maxMirror\maxMirror\bin\Debug\maxMirror.exe.config
+c:\work\visual studio 2013\Projects\maxMirror\maxMirror\bin\Debug\maxMirror.exe
+c:\work\visual studio 2013\Projects\maxMirror\maxMirror\bin\Debug\maxMirror.pdb
+c:\work\visual studio 2013\Projects\maxMirror\maxMirror\obj\Debug\maxMirror.csprojResolveAssemblyReference.cache
+c:\work\visual studio 2013\Projects\maxMirror\maxMirror\obj\Debug\maxMirror.exe
+c:\work\visual studio 2013\Projects\maxMirror\maxMirror\obj\Debug\maxMirror.pdb
